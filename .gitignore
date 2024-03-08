@@ -102,3 +102,6 @@ ENV/
 
 # sublime files
 .sublime-workspace
+/a2t
+/audio2tokens/njs-smpl
+/audio2tokens/google_api
